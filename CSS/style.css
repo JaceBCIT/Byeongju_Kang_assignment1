@@ -15,11 +15,9 @@ header {
 
 .menu_ul {
     display: flex;
-    flex-direction: row;
     justify-content:space-between;
     list-style: None;
     margin-top: 0;
-    
 }
 
 a {
@@ -97,11 +95,9 @@ h1 {
 }
 
 aside li {
-    font-family: 'Roboto Mono', monospace;
     list-style: None;
     padding-left: 17%;
     margin-bottom: 15px;
-    color: #3e8fb0;
 }
 
 textarea {

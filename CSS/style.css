@@ -174,7 +174,7 @@ div {
         padding-left: 42px;
     }
 
-    .side_menu_close:hover + h1 + .hidden{
+    .side_menu_close:hover + h1 + nav > .hidden{
         visibility: visible;
         display: flex;
         flex-direction: column;
